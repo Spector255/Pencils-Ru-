@@ -65,3 +65,4 @@ func main() {
 		fmt.Println("Карандаши без краски и лака : ", kar)
 	}
 }
+//linking to Github
